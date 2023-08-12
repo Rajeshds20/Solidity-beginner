@@ -1,16 +1,13 @@
-                // FIRST CHALLENGE
-
-// Write a simple contract and declare four different types of variables.
-// Write get and set functions for each of these variables. 
-//Return the value of the variable in the “set function”.
-
-
-
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
-contract FirstChallenge {
+// FIRST CHALLENGE
 
+// Write a simple contract and declare four different types of variables.
+// Write get and set functions for each of these variables.
+//Return the value of the variable in the “set function”.
+
+contract FirstChallenge {
     string public symbol;
     int public number;
     uint public value;
